@@ -1,4 +1,4 @@
-#Carpool schedule optimizer
+# Carpool schedule optimizer
 
 This scheduling tool is for groups of people who want to carpool to and from two central locations but who have inconsistent and varying schedules. It will allow users to specify morning and afternoon departure times, and then will provide carpool schedules that accommodate those times.
 
